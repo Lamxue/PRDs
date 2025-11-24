@@ -1,6 +1,7 @@
 # 新增一个专题页affiliates
 
 ## 归属站点：https://www.surfercloud.com/
+## 风格参考：https://www.surfercloud.com/，配图风格也要参考这个站点生成
 ## 导航增加一个入口：Affiliates
 ## 点击后进入本次设计的全新落地页
 1. 首屏：
